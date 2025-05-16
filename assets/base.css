@@ -112,6 +112,11 @@ a {
     transition: 0.2s color, 0.2s background-color, 0.2s border-color;
   }
 
+  .footer-column-news-message {
+    font-size: 12px;
+    margin-bottom: 12px;
+  }
+
   button:hover {
     background-color: #323232;
     border-color: #323232;
