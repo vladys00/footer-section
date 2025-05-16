@@ -142,10 +142,23 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "newsletter_z93Lzh": {
+            "type": "newsletter",
+            "settings": {
+              "heading": "NEWSLETTER",
+              "text": "<p>Subscribe to get notified about product launches, special offers and company news.</p>"
+            }
+          },
           "navigation_qNXJ73": {
             "type": "navigation",
             "settings": {
               "linklist": "footer"
+            }
+          },
+          "navigation_TKG6ip": {
+            "type": "navigation",
+            "settings": {
+              "linklist": "main-menu"
             }
           },
           "text_Y98gT8": {
@@ -154,19 +167,13 @@
               "heading": "About the shop",
               "text": "<p><a href=\"https://au.augustethelabel.com/\" target=\"_blank\" title=\"https://au.augustethelabel.com/\">Auguste The Label</a> is a boutique Australian brand dreamt up by Byron Bay native Ebony Eagles.</p><p>Ebony started Auguste with a clear vision: to transcend trends, and instead design<em> future vintage </em>pieces that would be loved for seasons to come.</p>"
             }
-          },
-          "newsletter_z93Lzh": {
-            "type": "newsletter",
-            "settings": {
-              "heading": "",
-              "text": ""
-            }
           }
         },
         "block_order": [
+          "newsletter_z93Lzh",
           "navigation_qNXJ73",
-          "text_Y98gT8",
-          "newsletter_z93Lzh"
+          "navigation_TKG6ip",
+          "text_Y98gT8"
         ],
         "settings": {
           "copyright": "@coding with Vlad"
